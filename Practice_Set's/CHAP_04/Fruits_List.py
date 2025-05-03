@@ -8,3 +8,4 @@ for i in range(7):  # Loop to get seven inputs
 
 # Printing the final list of fruits
 print("List of fruits:", fruits)
+
