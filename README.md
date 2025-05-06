@@ -125,13 +125,13 @@ l = ["Harry", "Soham", "Sachin", "Rahul"]
 * 
 *** 
 ***** for n = 3 
-8. Write a program to print the following star pattern: 
+8. Write a program to print the following star pattern:  for n = 3 
 * 
 ** 
-***      for n = 3 
-9. Write a program to print the following star pattern. 
+***     
+9. Write a program to print the following star pattern. ; for n = 3 
 * * * 
-*   *   for n = 3 
+*   *  
 * * *  
 10. Write a program to print multiplication table of n using for loops in reversed 
 order.
