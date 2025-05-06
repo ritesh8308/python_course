@@ -86,4 +86,52 @@ value and use key as their names. Assume that the names are unique.
 s = {8, 7, 12, "Harry", [1,2]}
 
 
+Chap06 : CONDITIONAL EXPRESSIONS
 
+1. Write a program to find the greatest of four numbers entered by the user. 
+2. Write a program to find out whether a student has passed or failed if it requires a 
+total of 40% and at least 33% in each subject to pass. Assume 3 subjects and 
+take marks as an input from the user. 
+3. A spam comment is defined as a text containing following keywords: 
+“Make a lot of money”, “buy now”, “subscribe this”, “click this”. Write a program 
+to detect these spams. 
+4. Write a program to find whether a given username contains less than 10 
+characters or not. 
+5. Write a program which finds out whether a given name is present in a list or not. 
+6. Write a program to calculate the grade of a student from his marks from the 
+following scheme: 
+90 – 100 => Ex 
+80 – 90 => A 
+70 – 80 => B 
+60 – 70  =>C 
+50 – 60 => D 
+<50        
+=> F 
+7. Write a program to find out whether a given post is talking about “Harry” or not.
+
+
+CHAP 07:   LOOPS IN PYTHON  
+
+
+1. Write a program to print multiplication table of a given number using for loop. 
+2. Write a program to greet all the person names stored in a list ‘l’ and which starts 
+with S. 
+l = ["Harry", "Soham", "Sachin", "Rahul"] 
+3. Attempt problem 1 using while loop. 
+4. Write a program to find whether a given number is prime or not. 
+5. Write a program to find the sum of first n natural numbers using while loop. 
+6. Write a program to calculate the factorial of a given number using for loop. 
+7. Write a program to print the following star pattern. 
+* 
+*** 
+***** for n = 3 
+8. Write a program to print the following star pattern: 
+* 
+** 
+***      for n = 3 
+9. Write a program to print the following star pattern. 
+* * * 
+*   *   for n = 3 
+* * *  
+10. Write a program to print multiplication table of n using for loops in reversed 
+order.
